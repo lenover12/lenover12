@@ -1,95 +1,76 @@
 
-# Welcome to My GitHub! 👋
+<div align="center">
+  <img src='https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=Hi!+I%27m+Leo!;Software+Developer;DevOps+Engineer' alt='Typing SVG' />
+</div>
 
-Hi, I'm Leonard McDonald 👨‍💻, I graduated in February 2024 and currently work as a software developer in a small company focused on C#, ASP.NET 9, nodejs, nHibernate, and deal with a lot of legacy code intermingled with newer solutions. I have a wide tech stack like most new developers finding their feet, so I will list only a few of them in my readme.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lenover12/lenover12/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/lenover12/lenover12/output/github-contribution-grid-snake.svg" alt="contribution snake">
+  </picture>
+</div>
 
-## 💻 Technologies & Skills
+### Languages & Frameworks
 
-<details open>
-  <summary>Programming Languages & their friends:</summary>
-  <ul>
-    <li><strong>Python · Flask · Jinja</strong> · Django</li>
-    <li><strong>JavaScript · React.js · Node.js · NHibernate</strong> · JQuery · Redux</li>
-    <li><strong>C# · ASP.NET</strong></li>
-    <li>HTML5 · CSS3 · TailwindCSS</li>
-  </ul>
-</details>
+<div align="center">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" width="36" height="36" alt="Flask" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="Node.js" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" width="36" height="36" alt="C#" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" width="36" height="36" alt="ASP.NET" /></a>
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=godot" width="36" height="36" alt="Godot / GDScript" /></a>
+</div>
 
-<details>
-  <summary>Database Architecture:</summary>
-  <ul>
-    <li><strong>SQLite · DynamoDB · MongoDB</strong> · MySQL · PostgreSQL</li>
-  </ul>
-</details>
+### Databases
 
-<details>
-  <summary>Cloud Computing:</summary>
-  <ul>
-    <li><strong>AWS</strong> · GCP · Azure</li>
-    <li>AWS: <strong>API Gateway · DynamoDB · EC2 · Elastic Beanstalk · Lambda · Polly · S3</strong></li>
-    <li>GCP: GAE · Datastore · BigQuery · Bucket</li>
-    <li>Azure: Translator REST API</li>
-  </ul>
-</details>
+<div align="center">
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" width="36" height="36" alt="SQLite" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dynamodb" width="36" height="36" alt="DynamoDB" /></a>
+</div>
 
-<details>
-  <summary>Tools:</summary>
-  <ul>
-	<li> Trello · Jira
-	<li> Git & GitHub
-	<li> Postman
-	<li> Docker
-  </ul>
-</details>
+### Cloud & DevOps
 
-
-## 🌱 About Me
-
-*[ this is a snippet from my resume, ask for an updated copy over at [LinkedIn](https://www.linkedin.com/in/leonard-mcdonald)* 😉 *]*
-Growing up I would always find ways to tweak my experience with software, whether its playing in the Windows registry or creating custom macros and scripts. While living abroad, surrounded by driven individuals chasing their dreams, I made a firm decision: when I return home, I will my passion. Driven by a love for problem-solving, I am wholeheartedly committed to crafting innovative solutions while carving out my career in the tech world.
-- I graduated in 2024 with a Bachelors of IT from RMIT (via OUA)
-- Love a bit of a janky setup to get my project outcome (not in my professional career)
-- I am here to take what I learn and put it into something fun or meaningful
-- Love User-Centered Design, Love efficiency
-- Coles recently visualize their human/object detection that outlines customers in their security camera screens to scare theives, it's always existed but showing the customer means they're thinking smarter not harder, let's be like this.
+<div align="center">
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" width="36" height="36" alt="GCP" /></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" width="36" height="36" alt="Azure" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
+</div>
 
 ### Hobbies
 
-- Minecraft (Modding/Datapacks)
-- Using new technology to prank friends
-- Creating physical gifts (leaning on the creative & humorous side)
-- Traveling (e.g., Japan for 18 months, South Korea for 9 months)
-- Video editing
+Modding (Minecraft, HyTale) · Travelling (Japan, South Korea, and more) · Video editing · Handmade gifts
 
-## 📬 Contact Me
+## Contact
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/leonard-mcdonald).
+[LinkedIn](https://www.linkedin.com/in/leonard-mcdonald)
 
-## 📂 Projects
+## Projects
 
-### WhatEatsWell – Nutrition Information Brower Extension (November 2024 - Current)
-This project is a continuation of another dropped project, previously started as a reactive web application that was intended and used to learn the MERN stack, and utilised OpenFoodFacts and FatSecret API's, and learning how to implement JWT and cookies. This project is now as simple as I can get it, as a browser extension that directly scrapes food/product nutrition information from Woolworths.com.au product and recipe pages, it stores user food choices locally in synced data, allows users to create meals from their food choices, and see the nutrition information of an entire meal calculated to serving sizes.
+### MyNextAudiobook.com (2025 - Current)
+A React/TypeScript web app for discovering your next audiobook. Swipe through recommendations pulled from the iTunes and Audible APIs, filtered by genre, language, and country. Features favourites, history, ambient visual effects, and geo-targeted Audible affiliate links. Deployed on Vercel with a Cloudflare Worker backend.
 
-### Capstone Project - Product Tracking Reactive WebApp (Sem 4 2023)
-Our group developed and deployed a reactive web app which scrapped retail websites for product price information. Users could add products, and the web app would track and chart price changes over time. (Grade: 92%)
-- **Technologies:** ASP.NET, C#, JavaScript, React, Redux, Tailwind, PostgreSQL, Git, Trello
-- **Role:** Full-stack developer
-  - Developed API endpoints, frontend pages, and components.
-  - Integrated database functionality using Entity Framework
-  - Implemented secure user authentication via ASP.NET Identity
-- Utilized Scrum and Agile methodologies
-- Stakeholder Management - Conducted weekly client meetings and daily stand-ups
-<details><summary><div align="center">Click here for video demonstration of project</div></summary><div align="center">(⚠️caution: contains my face⚠️)</div><div align="center", font-size: 52px>https://www.youtube.com/embed/ywq7_cqAu7Y
-</div><div align="center">(⚠️caution: contains my face⚠️)</div></details>
+### Live Lipsync
+Python-based live lip sync using face mesh landmark ML, remote console, and Unix server hosting.
+<details><summary><div align="center">Click here to see example</div></summary><div align="center"><img src="https://lenover12.github.io/portfolio/images/project/facemesh/facemesh.gif" width="400"></div></details>
 
-### Reactive Website Cataloguing CivitAI LoRA (Aug 2023)
-Using NodeJS, Express, Axios, and JavaScript, this project connects to the CivitAI API to bypass an error in civitai.com’s search filter (at the time of creation). This project’s purpose is to correctly implement filtering of LoRA model searches, downloads, and categorization mechanisms as an easy-to-use website with one-click capability for downloading and sorting.
-<details><summary><div align="center">Click here to see screenshot</div></summary><div align="center"> <img src="https://lenover12.github.io/portfolio/images/project/lora-downloader/webpage.png" width="400"></div> </details>
+### WhatEatsWell – Nutrition Browser Extension (November 2024 - Current)
+A browser extension that scrapes nutrition information from Woolworths.com.au product and recipe pages. Stores food choices locally, lets users build meals, and calculates nutrition totals by serving size.
 
-### Hobby Projects for Minecraft
-**Fundraising: TeamTrees MC / TeamSeas MC (IaaS / McFunction) (Nov 2021)**
-Created a custom server on Linux via CLI provisioned by Digital Ocean (IaaS), running MCFunction datapack code to orchestrate restrictions of a new game mode, running a public-facing Minecraft Server linked to the TeamTrees and TeamSeas Fundraiser pages.
+### Capstone Project – Product Price Tracker (Sem 4 2023)
+Group project: a reactive web app that scraped retail sites for product prices and charted changes over time. Grade: 92%.
+<details><summary><div align="center">Click here for video demonstration</div></summary><div align="center">https://www.youtube.com/embed/ywq7_cqAu7Y</div></details>
 
-**Live Lipsync:**
-Remote console, Face mesh face landmark machine learning technology, Unix server hosting, and resource management all demonstrated in a python based live lip sync
-<div align="center">(⚠️caution: contains my face⚠️)</div><details> <summary><div align="center">Click here to see example</div></summary> <div align="center"> <img src="https://lenover12.github.io/portfolio/images/project/facemesh/facemesh.gif" width="400"></div> </details><div align="center">(⚠️caution: contains my face⚠️)</div>
+### CivitAI LoRA Catalogue (Aug 2023)
+Node.js/Express site connecting to the CivitAI API to correctly filter, download, and sort LoRA models — built to bypass a search bug on civitai.com at the time.
+<details><summary><div align="center">Click here to see screenshot</div></summary><div align="center"><img src="https://lenover12.github.io/portfolio/images/project/lora-downloader/webpage.png" width="400"></div></details>
+
+### TeamTrees/TeamSeas MC (Nov 2021)
+Custom Minecraft server on Linux (Digital Ocean) using MCFunction datapacks to run a restricted game mode tied to the TeamTrees and TeamSeas fundraiser pages.
