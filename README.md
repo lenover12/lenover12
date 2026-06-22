@@ -10,7 +10,7 @@
   </picture>
 </div>
 
-### Languages & Frameworks
+<h3 align="center">Languages & Frameworks</h3>
 
 <div align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /></a>
@@ -24,7 +24,7 @@
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=godot" width="36" height="36" alt="Godot / GDScript" /></a>
 </div>
 
-### Databases
+<h3 align="center">Databases</h3>
 
 <div align="center">
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" width="36" height="36" alt="SQLite" /></a>
@@ -34,7 +34,7 @@
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dynamodb" width="36" height="36" alt="DynamoDB" /></a>
 </div>
 
-### Cloud & DevOps
+<h3 align="center">Cloud & DevOps</h3>
 
 <div align="center">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS" /></a>
@@ -44,18 +44,23 @@
 <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
 </div>
 
-### Hobbies
+<h3 align="center">Hobbies</h3>
 
-Modding (Minecraft, HyTale) · Travelling (Japan, South Korea, and more) · Video editing · Handmade gifts
+<div align="center">Modding (Minecraft, HyTale) · Travelling (Japan, South Korea, and more) · Video editing · Handmade gifts</div>
 
-## Contact
+<h2 align="center">Contact</h2>
+
+<div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/leonard-mcdonald)
 
+</div>
+
 ## Projects
 
-### MyNextAudiobook.com (2025 - Current)
+### [MyNextAudiobook.com](https://mynextaudiobook.com) (2025 - Current)
 A React/TypeScript web app for discovering your next audiobook. Swipe through recommendations pulled from the iTunes and Audible APIs, filtered by genre, language, and country. Features favourites, history, ambient visual effects, and geo-targeted Audible affiliate links. Deployed on Vercel with a Cloudflare Worker backend.
+<details><summary><div align="center">Click here for a preview</div></summary><div align="center"><img src="https://mynextaudiobook.com/preview.png" width="400"></div></details>
 
 ### Live Lipsync
 Python-based live lip sync using face mesh landmark ML, remote console, and Unix server hosting.
